@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(144, 144, 140);
+}
+
+.menu {
+  width: 200px;
+  float: left;
+  height: 100%;
+  background: rgb(251, 58, 85);
+}
+
+.view-container {
+  text-align: center;
+}
+
+.view-container h1{
+  margin-top: 0;
